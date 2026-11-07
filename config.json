@@ -1,0 +1,1 @@
+{"country":"US","domain":"outlook.com","headless":false,"max_name_retries":3,"max_rest_seconds_between_accounts":180,"min_rest_seconds_between_accounts":60,"profile_dir":"./profile","proxy":"","slow_mo_ms":120,"user_agent":"","verification_timeout_seconds":600}
